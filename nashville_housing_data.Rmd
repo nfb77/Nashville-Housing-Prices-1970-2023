@@ -1,5 +1,5 @@
 ---
-title: "Exploring the Nashville Residential Parcel Transaction Dataset (2000–2022)"
+title: "Exploring the Nashville Residential Parcel Transaction Dataset (2006–2022)"
 author: "Nicc Forster-Benson"
 date: "`r Sys.Date()`"
 output: pdf_document
@@ -51,7 +51,7 @@ data %>%
   geom_line() +
   geom_point() +
   labs(
-    title = "Median Residential Sale Price in Nashville (2000–2022)",
+    title = "Median Residential Sale Price in Nashville (2006–2022)",
     x = "Year",
     y = "Median Sale Price (USD)"
   ) +
