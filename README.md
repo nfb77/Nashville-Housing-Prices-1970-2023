@@ -1,5 +1,5 @@
 ## Overview
-The **Nashville Housing Price** dataset provides information on residential parcel transactions in Nashville, Tennessee, spanning the years **2000 through 2022**.  
+The **Nashville Housing Price** dataset provides information on **residential parcel transactions** in Nashville, Tennessee, spanning the years **2000 to 2022**.  
 
 It contains parcel-level transaction records including sale prices, property characteristics, census tract, and assessed values. 
 
