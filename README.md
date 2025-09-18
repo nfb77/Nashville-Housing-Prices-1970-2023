@@ -5,7 +5,8 @@ It contains parcel-level transaction records including sale prices, property cha
 
 ---
 ## File Information
-- **File name:** `nashville_housing_data.csv` 
+- **Data file name:** `nashville_housing_data.csv`
+- **Rmd file name:** `nashville_housing_data.rmd` 
 - **Coverage:** Nashville (Davidson County), Tennessee  
 - **Time span:** January 2000 – September 2022  
 - **Unit of observation:** Individual residential property transaction  
