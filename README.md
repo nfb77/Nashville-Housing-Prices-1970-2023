@@ -1,7 +1,7 @@
 ## Overview
 The **Nashville-Residential-Parcel-Transaction-Price-2000-2022** dataset provides information on residential parcel transactions in Nashville, Tennessee, spanning the years **2000 through 2022**.  
 
-It contains parcel-level transaction records including sale prices, property characteristics, location details, and assessed values. 
+It contains parcel-level transaction records including sale prices, property characteristics, census tract, and assessed values. 
 
 ---
 ## File Information
@@ -16,11 +16,11 @@ It contains parcel-level transaction records including sale prices, property cha
 | Variable        | Description                                                                 |
 |-----------------|-----------------------------------------------------------------------------|
 | `SalePrice`     | Sale price of the property (USD).                                           |
-| `SaleDate`      | Date of the recorded sale (YYYY-MM-DD).                                     |
+| `SaleDate`      | Date of the recorded sale (MM-DD-YYYY).                                     |
 | `Acres`         | Lot size in acres.                                                          |
 | `LUDesc`        | Land use description (e.g., single-family, condo, duplex).                  |
 | `FinishArea`    | Finished area of the property (square feet).                                |
-| `PropDate`      | Date when the property record was created or updated (YYYY-MM-DD).          |
+| `PropDate`      | Date when the property record was created or updated (MM-DD-YYYY).          |
 | `PropZip`       | ZIP code of the property.                                                   |
 | `CensusTract`   | Census tract identifier (for demographic linkage).                          |
 | `CouncilDistrict` | Nashville Metro Council district number.                                  |
