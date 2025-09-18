@@ -1,5 +1,5 @@
 ## Overview
-The **Nashville-Residential-Parcel-Transaction-Price-2000-2022** dataset provides detailed information on residential property transactions in Nashville, Tennessee, spanning the years **2000 through 2022**.  
+The **Nashville-Residential-Parcel-Transaction-Price-2000-2022** dataset provides information on residential parcel transactions in Nashville, Tennessee, spanning the years **2000 through 2022**.  
 
 It contains parcel-level transaction records including sale prices, property characteristics, location details, and assessed values. 
 
